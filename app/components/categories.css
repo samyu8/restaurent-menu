@@ -1,0 +1,16 @@
+.categories {
+	display: flex;
+    align-items: start;
+}
+.menu, .menuList {
+	margin: 20px;
+}
+
+table, th, td {
+	border: 1px solid #000;
+	border-collapse: collapse;
+}
+
+th, td {
+	padding: 10px;
+}
